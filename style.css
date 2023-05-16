@@ -1,0 +1,51 @@
+body {
+   
+    background-color: #e5ffe7;
+}
+
+.vse {
+    max-width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+.vtoroy {
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    text-align: center;
+    max-width:auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color:black
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: aqua;
+}
+
+/* li {
+    list-style: none;
+} */
+
+h2 {
+    text-align: center;
+}
+
+.surt {
+    width: 200px;
+    border-radius: 28px;
+    text-align: center;
+
+}
+
